@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Kendall Nelson
+description:      Compendium of info about me- Kendall Nelson 
 disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
@@ -9,16 +9,15 @@ url:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Kendall Nelson
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "Hullo. My name is Kendall and I am a software engineer. I 
+work on OpenStack making contributions to Cinder and os-brick."
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
+  twitter:knelson92         
+  github:kendallnelson           
+  linkedin:kendall-nelson-a7409575       
   instagram:      
   flickr:         
   tumblr:         
