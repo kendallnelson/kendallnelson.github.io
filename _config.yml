@@ -1,4 +1,4 @@
-title:            Kendall Nelson
+title:            KendallNelson
 description:      Compendium of info about me- Kendall Nelson 
 disqus_shortname: 
 reading_time:     true
@@ -9,14 +9,12 @@ url:
 
 # Owner/author information
 owner:
-  name:           Kendall Nelson
+  name:           KendallNelson
   avatar:         avatar.jpg
-  bio:            "Hullo. My name is Kendall and I am a software engineer. I 
-work on OpenStack making contributions to Cinder and os-brick."
-  email:          you@email.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  github:           
+  bio:            "Hullo. My name is Kendall and I am a software engineer. I work on OpenStack making contributions to Cinder and os-brick."
+  email:          kennelson11@gmail.com
+  twitter:        knelson92
+  github:         kendallnelson  
   linkedin:       
   instagram:      
   flickr:         
@@ -25,7 +23,7 @@ work on OpenStack making contributions to Cinder and os-brick."
   google_plus:
 
 # Background image to be tiled on all pages
-background: 
+background: DSC_0036.jpg
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
