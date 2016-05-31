@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My first post!!?
-description: "Just getting started so bear with me."
+title: Summit Review
+description: "What I have to say about the summit."
 tags: [post]
 image:
   background: triangular.png
