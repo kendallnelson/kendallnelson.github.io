@@ -18,10 +18,10 @@ want to build relationships with the community and be involved in all the
 daytime stuff too. It’s impossible. 
 
 Talks:
-So my talks actually ended up going really well. My first tech at the women's 
+So my talks actually ended up going really well. My first talk at the women of 
 openstack working breakfast was the one I was way more nervous for. I didn't 
 eat anything beforehand because I felt like I was going to be sick. I almost 
-got there late because I thought it started at 8 turns out it started at 7:20. 
+got there late because I thought it started at 8, turns out it started at 7:20. 
 I was so warm because I was nervous that I was overheating in my blazer so I 
 took it off. But even with all of that it ended up being really well received. 
 As dumb as it is I was amazed by how many people tweeted things that I said and
@@ -45,20 +45,19 @@ I'm definitely already brainstorming talks for the next Summit.
 Sessions:
 There are a lot of really interesting sessions about a ton of different things.
 I was sad that I couldn't make it to all of them and tried to pack in as much as
-I couldn't. Even with all the planning I had done ahead of time though there 
-wasn't anything I could do in sections overlap with one another. I tried to go 
+I could. Even with all the planning I had done ahead of time though there 
+wasn't anything I could do when sections overlapped one another. I tried to go 
 to sessions that the rest of the people I knew weren't going to so that I could
 cover more ground. I guess I'll just have to work harder at cloning myself for
-next time. I learned a ton at the sessions I did go to. The session on Docker 
-and Cinder together was really interesting even though John demo didn't work 
-out like we planned. I learned a lot about live migration and how's that works 
-with NetApp drivers. I got to see some of my friends up on stage talking about 
-all of the things that have happened in Cinder over the last release and where 
-we plan to go in the future releases. I got to be a part of a heated discussion
-about splitting the design Summit out from the rest of the summit. I got to hear
-the debate about multipath between Nova and Cinder contributors. All in all 
-there were a lot of good talks but I went to and know what I wish I had been 
-able to make it to.
+next time. I learned a ton at the sessions I did go to though. The session on 
+Docker and Cinder together was really interesting even though John demo didn't 
+work out like we planned. I learned a lot about live migration and how's that 
+works with NetApp drivers. I got to see some of my friends up on stage talking
+about all of the things that have happened in Cinder over the last release and 
+where we plan to go in the future releases. I got to be a part of a heated 
+discussion about splitting the design Summit out from the rest of the summit. 
+I got to hear the debate about multipath between Nova and Cinder contributors. 
+All in all there were a lot of good talks but I went to and know what I wish I had been able to make it to.
 
 New People:
 I got to meet so many new people! All these big names in Nova and other projects
